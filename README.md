@@ -1,0 +1,1 @@
+[![JudsonAlex GitHub stats](https://github-readme-stats.vercel.app/api?username=JudsonAlex&theme=highcontrast&show_icons=true&count_private=true&locale=pt-br&border_radius=30)](https://github.com/JudsonAlex/github-readme-stats)
